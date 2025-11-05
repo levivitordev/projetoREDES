@@ -1,6 +1,6 @@
 # 🗨️ Mini-Chat TCP — PROJETO DE REDES 
 
-## 📋 Pré-requisitos ( TECNOLOGIAS NECESSARIAS )
+## 📋 Pré-requisitos ( Tecnologias Necessarias )
 - **Python 3.6** ou superior instalado  
 - **Sistema operacional:** Windows, Linux ou macOS
 
